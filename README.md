@@ -6,6 +6,8 @@
 - 📫 How to reach me : 
 - 📨 mailto:jagritsaini42@gmail.com
 - 📲 tel:+919588375554
+- 
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 <!---
 jagssss/jagssss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
