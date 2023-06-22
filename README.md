@@ -1,5 +1,5 @@
 <a target="_blank">
-    <img src="https://github.com/jagssss/Readme-trial/blob/main/Assets/space%20image.gif" width="100%" style="max-width:100%;">
+    <img src="https://github.com/jagssss/Readme-trial/blob/main/Assets/github%20nice%20bg.gif" width="100%" style="max-width:100%;">
   </a>
 <h1 align="center">Hi 👋 I'm Jagrit</h1>
 <h1 align="center">  Btw you can call me Jagss</h1>
