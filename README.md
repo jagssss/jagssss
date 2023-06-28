@@ -1,7 +1,8 @@
 <a target="_blank">
     <img src="https://github.com/jagssss/Readme-trial/blob/main/Assets/github%20nice%20bg.gif" width="100%" style="max-width:100%;">
   </a>
-<h1 align="center">Hi 👋 I'm Jagrit</h1>
+<div align="center"> <h1><span >Hi 👋 I'm Jagrit </span><a target="_blank"> <img src="https://github.com/jagssss/Readme-trial/blob/044498962f77bf33ce79dd82b1fa26bcc288285f/Assets/cute%20gif.gif" width="70px"></a></h1>
+</div>
 <h2 align="center">  Btw you can call me Jagss</h2>
     <h3 align="center">A Perfectionist, A Web Dev Enthusiast and A excieted Learner too</h3>
 
@@ -15,16 +16,16 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
 </h1>
-<span align="left" padding="20px">
+<!-- <span align="left" padding="20px">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
 </span>
 <span align="right">
   <img src="https://github.com/jagssss/Readme-trial/blob/main/Assets/walking%20gif%20code.gif" height=340/>
-</span>
+</span> -->
 <br/>
 <br/>
 <div align="center">
-    <a href="https://www.linkedin.com/in/jagrit-saini/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4D03AQE3heVYOoLRyw/profile-displayphoto-shrink_400_400/0/1670257843240?e=1691625600&v=beta&t=-0aiWtNhsqB_fqV8-7R6HP98GjUXWI0SU0pSkHGIzmg" height="300" /></a>
+    <a href="https://www.linkedin.com/in/jagrit-saini/" target="blank"><img align="center" style="border-radius:50%" src="https://media.licdn.com/dms/image/D4D03AQE3heVYOoLRyw/profile-displayphoto-shrink_400_400/0/1670257843240?e=1691625600&v=beta&t=-0aiWtNhsqB_fqV8-7R6HP98GjUXWI0SU0pSkHGIzmg" height="300" /></a>
     </div>
     <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jagssss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
@@ -48,6 +49,12 @@
    - 📨 mailto:jagritsaini42@gmail.co
      
    - ⚡ Fun fact *I also watch movies.*
+     
+   -🦖 I also love to play chrome Trex Dino game 
+
+<div align="center">
+  <img src="https://github.com/jagssss/Readme-trial/blob/044498962f77bf33ce79dd82b1fa26bcc288285f/Assets/dino%20gif.gif" >
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
