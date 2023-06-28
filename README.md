@@ -50,7 +50,7 @@
      
    - ⚡ Fun fact *I also watch movies.*
      
-   -🦖 I also love to play chrome Trex Dino game 
+   - 🦖 I also love to play chrome Trex Dino game 👇
 
 <div align="center">
   <img src="https://github.com/jagssss/Readme-trial/blob/044498962f77bf33ce79dd82b1fa26bcc288285f/Assets/dino%20gif.gif" >
