@@ -74,9 +74,11 @@
            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
                <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jagssss&theme=jolly" alt="jagssss stats" /></p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jagssss&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="600">
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jagssss&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="jagssss stats" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jagssss&theme=jolly" width="600">
+</div>
 <br/>
 <div align="center">
 <a target="_blank"><img align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
