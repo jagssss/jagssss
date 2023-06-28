@@ -76,7 +76,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jagssss&theme=jolly" alt="jagssss stats" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jagssss&show_icons=true&locale=en" alt="jagssss stats" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jagssss&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="jagssss stats" /></p>
 <br/>
 <div align="center">
 <a target="_blank"><img align="center" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
