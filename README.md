@@ -74,7 +74,7 @@
 <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a></p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jagssss&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="600">
+<img src="[https://github-readme-stats.vercel.app/api?username=jagssss&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=jagssss&show_icons=true&locale=en&layout=compact)" alt="GitHub Stats for jagss" width="600">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jagssss&theme=jolly" width="600">
 </div>
