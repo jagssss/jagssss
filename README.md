@@ -76,7 +76,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagssss&show_icons=true&locale=en&layout=compact" alt="GitHub Stats for jagss" width="600">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jagssss&theme=jolly" width="600">
+<img src="https://github-readme-stats.vercel.app/api?username=jagssss&show_icons=true&locale=en" width="600">
 </div>
 <br/>
 <div align="center">
