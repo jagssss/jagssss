@@ -76,7 +76,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jagssss&show_icons=true&locale=en" alt="GitHub Stats for jagss" width="600">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagssss&show_icons=true&locale=en&layout=compact" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagssss&show_icons=true&locale=en&layout=compact" width="500">
 </div>
 <br/>
 <div align="center">
